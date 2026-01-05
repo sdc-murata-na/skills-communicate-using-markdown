@@ -5,3 +5,7 @@
 ヘッダーではありません。
 
 ![本物の猫の写真](https://www.tcaeco.ac.jp/contents/animalbook/wp-content/uploads/sites/5/2024/12/cat-type_00.jpg)
+
+``` javascript
+var myVar = "Hello, world!";
+```
